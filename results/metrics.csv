@@ -1,0 +1,9 @@
+validation_start,2023-08-10
+validation_end,2023-11-30
+n_train,4178
+n_validation,964
+naive_rmse,0.3790575776128719
+naive_mae,0.2598074921135018
+model_rmse,0.2564861082561095
+model_mae,0.18464975498122055
+rmse_improvement_pct,32.33584463042802
